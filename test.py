@@ -1,9 +1,6 @@
 '''
 NOT MY CODE. This is a test program supplied by MediaPipe to 
-work through facial detection. I simply copied and pasted in order to make
-sure that OpenCV and MediaPipe were cooperating correctly on my machine.
-I also spent some time working through each line of code and making sure
-I understood this program correctly.
+work through facial detection. This was a test to ensure that OpenCV and MediaPipe were cooperating correctly on my machine.
 '''
 
 import cv2
